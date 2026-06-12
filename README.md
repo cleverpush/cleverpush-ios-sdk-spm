@@ -13,7 +13,7 @@ Enter the URL:
 https://github.com/cleverpush/cleverpush-ios-sdk-spm
 ```
 
-Use version rule: **Up to Next Major Version** from `1.34.45`.
+Use version rule: **Up to Next Major Version** from `1.34.48`.
 
 ### Available libraries
 
@@ -29,7 +29,7 @@ Most apps only need `CleverPush`.
 
 If you use CocoaPods, continue using the main repo as before — nothing changes:
 ```ruby
-pod 'CleverPush', '~> 1.34.45'
+pod 'CleverPush', '~> 1.34.48'
 ```
 
 ## Changelog & Releases
