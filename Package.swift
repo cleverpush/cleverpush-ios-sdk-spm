@@ -43,18 +43,18 @@ let package = Package(
         // on the main cleverpush-ios-sdk repo to keep this repo lightweight.
         .binaryTarget(
             name: "CleverPush",
-            url: "https://github.com/cleverpush/cleverpush-ios-sdk/releases/download/1.34.55/CleverPush.xcframework.zip",
-            checksum: "38d180318f6509f4bde1222b608b503d8c6ab93eb700b2d0f4c1db4d154dfcde"
+            url: "https://github.com/cleverpush/cleverpush-ios-sdk/releases/download/1.34.56/CleverPush.xcframework.zip",
+            checksum: "88a62e915f708958b35025f7698f6d58f29f6af2926a15be5ed200f6109f12f4"
         ),
         .binaryTarget(
             name: "CleverPushExtension",
-            url: "https://github.com/cleverpush/cleverpush-ios-sdk/releases/download/1.34.55/CleverPushExtension.xcframework.zip",
-            checksum: "a0ae4c30bbb6c5f46ef390940406dd11a2d2513a5f37aa7c6745752282003bd3"
+            url: "https://github.com/cleverpush/cleverpush-ios-sdk/releases/download/1.34.56/CleverPushExtension.xcframework.zip",
+            checksum: "4ae1492338b32249b1e8adead063800aa122e92295e4b5ce2dec6c5aca9aa965"
         ),
         .binaryTarget(
             name: "CleverPushLocation",
-            url: "https://github.com/cleverpush/cleverpush-ios-sdk/releases/download/1.34.55/CleverPushLocation.xcframework.zip",
-            checksum: "ef1e3171fe043d5a910b68d8f39d996105bb7e92f05995e8f4e0db098c7853d8"
+            url: "https://github.com/cleverpush/cleverpush-ios-sdk/releases/download/1.34.56/CleverPushLocation.xcframework.zip",
+            checksum: "bdb7d94b39e37a0c567c3689f0f49d774956dd7f9cc0342340aae91385e93041"
         )
     ]
 )
